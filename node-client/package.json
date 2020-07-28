@@ -1,0 +1,11 @@
+{
+  "name": "nodeClient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aman",
+  "license": "MIT",
+  "dependencies": {
+    "farmhash": "^3.1.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
